@@ -1,0 +1,96 @@
+ body {
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+ }
+
+ 
+ .logo {
+     text-align: center;
+     padding: 20px;
+     background-color: #fcd15d;
+ }
+
+ 
+ .menu {
+     background-color: #fdbf77;
+     color: #fff;
+     text-align: center;
+     padding: 10px;
+ }
+
+ 
+ .hero {
+     background-image: url('caminho/para/imagem.jpg');
+     background-size: cover;
+     color: #fcd15d;
+     text-align: center;
+     padding: 100px;
+ }
+
+ 
+ .text-section {
+     background-color: #fcd15d;
+     padding: 50px;
+ }
+
+ 
+ .button {
+     display: inline-block;
+     background-color: #139ceb;
+     color: #fff;
+     padding: 10px 20px;
+     text-decoration: none;
+     margin: 10px;
+     
+ }
+
+ 
+ .image {
+     text-align: center;
+     margin-bottom: 20px;
+ }
+
+ 
+ .video {
+     text-align: center;
+     margin-bottom: 20px;
+ }
+
+
+ .map {
+     text-align: center;
+     margin-bottom: 20px;
+ }
+
+ 
+ .form {
+     text-align: center;
+     margin-bottom: 20px;
+ }
+
+ 
+ .footer {
+     background-color:#fcd15d;
+     color: #fff;
+     text-align: center;
+     padding: 10px;
+ }
+ .album-grid {
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     
+     grid-gap: 10px;
+    
+ }
+
+ .album-grid img {
+     width: 100%;
+    
+     height: auto;
+
+ }
+ h1{
+    text-align: center;
+    
+ }
